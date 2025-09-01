@@ -1,6 +1,0 @@
-:root{ --sand-50:#fff8e7; --sand-200:#f3e5c0; --sand-300:#e9d8a6; --ocean-300:#9adbe0; --ocean-500:#2aa4b6; --jungle-600:#1f6a4f; --jungle-800:#0e3f2e; --sun-400:#ffd166; --bg:#fbfbfb; --fg:#16201a; --muted:#5b6b63; --card:#ffffff; --ring: rgba(42,164,182,.35); --radius:16px; --shadow:0 10px 30px rgba(0,0,0,.08); --container:1150px }
-/* Stili di base semplificati */ 
-body{margin:0;font-family:sans-serif;background:var(--sand-50);color:var(--fg)}
-h1{font-size:2rem}
-.nav{background:#fff;padding:1rem;position:sticky;top:0}
-.hero{padding:2rem;background:var(--ocean-300)}
